@@ -1,0 +1,3 @@
+const unsigned short Bullet[] = {
+ 0x07E0, 0x0500, 0x0500, 0x07E0,
+};
